@@ -7,4 +7,4 @@ Trata-se de uma carteira online onde é possível controlar e organizar as finan
 
 Achou interessante? Clique no link abaixo!! 😁
 
-### https://growdev-codai-nikel.netlify.app/
+### https://codai-nikel.netlify.app
